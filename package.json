@@ -7,7 +7,7 @@
       "type": "git",
       "url": "https://github.com/johnviolano/hyper-day-night-switch.git"
    },
-   "author": "John Violano",
+   "author": "Paswotnya",
    "license": "ISC",
    "dependencies": {
       "xi-hyper": "latest",
