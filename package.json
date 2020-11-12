@@ -1,0 +1,16 @@
+{
+  "name": "hyper-day-night-switch",
+  "version": "1.0.0",
+  "description": "Swap between atom (light/dark) themes at day/night changes.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnviolano/hyper-day-night-switch.git"
+  },
+  "author": "John Violano",
+  "license": "ISC",
+  "dependencies": {
+    "xi-hyper": "latest",
+    "xo-hyper": "latest"
+  }
+}
