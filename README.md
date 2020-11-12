@@ -32,6 +32,6 @@ module.exports = {
 These are the themes this plugin will use:
 
 ```
-hyper-one-light
-hyperterm-atom-dark
+xo-hyper
+xi-hyper
 ```
